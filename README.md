@@ -1,5 +1,7 @@
 # covid19-statistics
 this is a simple app to show covid19 statistics all over the world
+ 
+ node.js is used for back-end and ejs for generating html files
 
 steps to run the app :
 1) clone the project
